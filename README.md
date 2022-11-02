@@ -5,6 +5,15 @@
 <img src="https://eim.twenkid.com/1.png?v_9-10-2022" width=42%> <img src="https://eim.twenkid.com/2.png?v_1-10-2022" width=56%><br><img src="https://eim.twenkid.com/3.png?v_27-09-2022" width=66%>
 
 
+Връзка с автора:
+
+http://twenkid.com
+
+http://research.twenkid.com
+
+https://artificial-mind.blogspot.com
+
+
 * Други имена: "История, теория и пионери на Универсалния изкуствен разум и трансхуманизма", или "Българският пионер в Общия изкуствен интелект и развитието на човека/трансхуманизма" (...):<p></p>
 
 ## Сравнение на изказвания на Арнаудов, 2003-2007-2009 и Хасабис, 2022 г. 
