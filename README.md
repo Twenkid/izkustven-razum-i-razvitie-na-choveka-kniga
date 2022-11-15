@@ -1,7 +1,11 @@
-<center>![image](https://user-images.githubusercontent.com/23367640/189515029-7071dc21-c8f0-428b-895c-abebc548d27b.png)</center>
-<br>
+<center>
+  
+![image](https://user-images.githubusercontent.com/23367640/189515029-7071dc21-c8f0-428b-895c-abebc548d27b.png)
+  
+</center>
+
 ## Интердисциплинарно всестранно изследователско-творческо дружество
-## Основано през 2000 г.<br><br>
+## основано през 2000 г.
 
 # Изкуствен разум и Развитие на човека - История, теория и пионери 
 
