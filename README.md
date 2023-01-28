@@ -12,6 +12,10 @@
 
 Връзка с автора:
 
+Група "Универсален изкуствен разум" във Фейсбук: 
+
+https://www.facebook.com/groups/115986208422069
+
 http://twenkid.com
 
 http://research.twenkid.com
