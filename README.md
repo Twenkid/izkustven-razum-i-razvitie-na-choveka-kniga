@@ -8,6 +8,8 @@
 
 # ИЗКУСТВЕН РАЗУМ И РАЗВИТИЕ НА ЧОВЕКА:<br> ИСТОРИЯ, ТЕОРИЯ И ПИОНЕРИ
 
+![image](https://user-images.githubusercontent.com/23367640/227797604-63b15b95-dcb5-443c-b14d-743714dabffd.png)
+
 <img src="https://eim.twenkid.com/1.png?v_2-3-2023" width=46%> <img src="https://eim.twenkid.com/2.png?v_1-10-2022" width=52%><br><img src="https://eim.twenkid.com/3.png?v_24-12-2022" width=66%>
 
 Връзка с автора:
