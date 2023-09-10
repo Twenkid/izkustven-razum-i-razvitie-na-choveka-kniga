@@ -1,18 +1,52 @@
 <center>
-  
+
+<!--
+<img src="https://user-images.githubusercontent.com/23367640/189515029-7071dc21-c8f0-428b-895c-abebc548d27b.png" width="450">  
+-->  
 ![image](https://user-images.githubusercontent.com/23367640/189515029-7071dc21-c8f0-428b-895c-abebc548d27b.png)
-  
+
 </center>
 
-## Интердисциплинарно дружество за<br> Общ изкуствен интелект и <br> Развитие на човека (надтелесност, космизъм, "трансхуманизъм")<br>неформално основано около 2000-2001 г.
+## Всестранно изследователско-творческо дружество за <br> Мислещи машини и <br> Развитие на човека (надтелесност, космизъм, "трансхуманизъм")<br>неформално основано около 2000-2001 г.
 
 # ИЗКУСТВЕН РАЗУМ И РАЗВИТИЕ НА ЧОВЕКА:<br> ИСТОРИЯ, ТЕОРИЯ И ПИОНЕРИ
 
-![image](https://user-images.githubusercontent.com/23367640/227797604-63b15b95-dcb5-443c-b14d-743714dabffd.png)
+<!--
+<img src="https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/c996b96d-6c7a-47dc-91f6-a634a493f406" width="500">
+-->
 
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/6698a839-3af6-4c86-b002-5009de17764a)
+
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/9f091890-3fb3-45f3-aad2-b22d320c5aba)
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/e246472d-ac99-4d51-981d-eb6cf88d7ff6)
+
+![image](https://user-images.githubusercontent.com/23367640/227797604-63b15b95-dcb5-443c-b14d-743714dabffd.png)
+![Uploading image.png…]()
+
+<!--
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/4551f401-682e-4b91-acdc-1d5ad6e340ef)
+-->
+<!--
+![image](https://user-images.githubusercontent.com/23367640/227797604-63b15b95-dcb5-443c-b14d-743714dabffd.png)
+-->
+
+<!--
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/c996b96d-6c7a-47dc-91f6-a634a493f406)
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/8b9384cb-9632-475a-84c7-2669b85961ad)
+![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/e246472d-ac99-4d51-981d-eb6cf88d7ff6)
+-->
+
+<!-- не ги зарежда
+<img src="https://eim.twenkid.com/1.png">
+<img src="https://eim.twenkid.com/1.png" width=46%>
 <img src="https://eim.twenkid.com/1.png?v_2-3-2023" width=46%> <img src="https://eim.twenkid.com/2.png?v_1-10-2022" width=52%><br><img src="https://eim.twenkid.com/3.png?v_24-12-2022" width=66%>
 
-Страница за "Теория на Разума и Вселената" - създадена в "класическия период" между 2001-2004 г. докато авторът е дете, юноша, - или "Българските пророчества/предвиждания" на английски, която обобщава част от информацията от книгата и сравнява с други подобни теории, които повтарят и преоткриват теорията, понятията, разсъжденията, начинът на мислене и т.н. от тази теория, първоначално наречена с много други имена поради многообразието и всеобхватността си: "Човекът и мислещата машина", "Схващане за всеобщата предопределеност" "Вселена и Разум" и др.: https://github.com/Twenkid/Theory-of-Universe-and-Mind/
+-->
+
+Страница за "Теория на Разума и Вселената" - създадена в "класическия период" между 2001-2004 г. докато авторът е дете, юноша, - или "Българските пророчества/предвиждания" на английски, която обобщава част от информацията от книгата и сравнява с други подобни теории, които повтарят и преоткриват теорията, понятията, разсъжденията, начинът на мислене и т.н. от тази теория, първоначално наречена с много други имена поради многообразието и всеобхватността си: "Човекът и мислещата машина", "Схващане за всеобщата предопределеност" "Вселена и Разум" и др.: 
+
+За теорията на английски:
+https://github.com/Twenkid/Theory-of-Universe-and-Mind/
 
 Връзка с автора:
 
