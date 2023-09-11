@@ -18,10 +18,10 @@
 ![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/6698a839-3af6-4c86-b002-5009de17764a)
 
 ![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/9f091890-3fb3-45f3-aad2-b22d320c5aba)
+
 ![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/e246472d-ac99-4d51-981d-eb6cf88d7ff6)
 
 ![image](https://user-images.githubusercontent.com/23367640/227797604-63b15b95-dcb5-443c-b14d-743714dabffd.png)
-![Uploading image.png…]()
 
 <!--
 ![image](https://github.com/Twenkid/izkustven-razum-i-razvitie-na-choveka-kniga/assets/23367640/4551f401-682e-4b91-acdc-1d5ad6e340ef)
